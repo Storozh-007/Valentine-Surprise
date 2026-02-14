@@ -38,7 +38,7 @@
 2. **Vercel**:
    * Зайди на [Vercel Dashboard](https://vercel.com/dashboard).
    * Если проект уже создан, он сам обновится после пуша на GitHub.
-   * Скопируй ссылку на сайт (Domain), она выглядит как '(https://anna3-fawn.vercel.app/)'.
+   * Скопируй ссылку на сайт (Domain), она выглядит как `(https://anna3-fawn.vercel.app/)`.
 
 ---
 
